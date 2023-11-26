@@ -1,16 +1,27 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**gabrielstonee/gabrielstonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  
+  Hey there! I'm passionate about quality assurance and software engineering. I take pride in ensuring products meet the highest standards. As a <strong>QA engineer</strong>, (and, sometimes, a  <strong>Back End</strong>) developer) I thrive in refining processes, implementing robust testing methodologies, and collaborating closely with teams to deliver top-notch solutions. Beyond tech, I'm a dedicated cat owner, cherishing the playful moments and companionship these fluffy creatures          
+  bring. I Looking forward to connect and contribute to innovative projects within the tech community!
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Programming Languages: Python, Javascript, Java, C, C++
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Tools: Postman, Insomnia, JMeter, Cypress, Selenium, Jira, Confluence, Github, Gitlab, Jenkins, Docker
+</p>
+
+<p align="left">
+  💌 If you want to get in touch with me: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrielbarretofreedom@gmail.com" alt="Gmail"/></a>
+
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gabriel-stone" alt="LinkedIn"/></a>
+</p>
