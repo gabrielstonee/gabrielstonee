@@ -3,7 +3,7 @@
 <p align="left">
   
   Hey there! I'm passionate about quality assurance and software engineering. I take pride in ensuring products meet the highest standards. As a <strong>QA engineer</strong>, (and, sometimes, a  <strong>Back End</strong>) developer) I thrive in refining processes, implementing robust testing methodologies, and collaborating closely with teams to deliver top-notch solutions. Beyond tech, I'm a dedicated cat owner, cherishing the playful moments and companionship these fluffy creatures          
-  bring. I Looking forward to connect and contribute to innovative projects within the tech community!
+  bring. I am looking forward to connect and contribute to innovative projects within the tech community!
 </p>
 
 <p align="left">
